@@ -1,0 +1,10 @@
+my_sokoban
+.vscode
+*.o
+*.a
+*.gc*
+maps
+bonus/maps
+bonus/my_sokoban-bonus
+unit_tests
+html/
